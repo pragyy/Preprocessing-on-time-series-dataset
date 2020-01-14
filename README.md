@@ -8,4 +8,4 @@ The first task was to combine these columns and convert them into the date forma
 2. To enhance the readibility and to get a sense of the dataset, the time-series was briefly analyzed by grouping the data on the basis of months.<br>
 3. The dataset was then scrutinised to determine any missing values that are to be further dealt with.<br>
 4. These missing values were then filled in using the mean and median imputation techniques to complete the dataset.
-5. 
+5. Finally, the completion of the imputed dataset was verified by checking for missing values, data-type, format testing
